@@ -2,12 +2,12 @@ main {
   font-family: 'Times New Roman';
  p {
    text-size: 20px;
-   background-color: black;
-   color: white;
+   background-color: white;
+   color: blue;
   }
  h1 {
    text-size: 40px;
    background-color: white;
-   color: black;
+   color: blue;
   }
 }
