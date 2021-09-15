@@ -6,18 +6,14 @@
     font-family: "Comic Sans", "Times New Roman", serif;
 }
 h1 {
-  color: black;
+  color: white;
   font-weight: italic, bold;
   text-align: center;
-  margin: 50px 60px;
-  background-color: cream;
   
 }
 p {
   color: white;
-  background-color: dark grey;
   text-align: center;
-  margin: 50px 60px;
   text-transform: uppercase;
 }
 
